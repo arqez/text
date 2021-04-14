@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://cdn.discordapp.com/attachments/818180413201711125/831857627847327774/arqezcat.gif" width="420">
 </p>
-<h1 align="center">carsuki</h1>
+<h1 align="center">arqez</h1>
 <p align="center">“idk what im doing here lol”<br>—i'm trying to get better at js and python, though!!</p>
 
 ⠀
